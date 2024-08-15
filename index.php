@@ -39,13 +39,13 @@
 
     <div class="image-container">
         <a href="https://applications.microsoft.com/" target="_blank">
-            <img src="images/Microsoft365.jpg" alt="Image 1">
+            <img src="images/Microsoft365.png" alt="Image 1">
         </a>
         <a href="INSERT ANY LINK HERE" target="_blank">
-            <img src="images/ContactUsPhone.jpg" alt="Image 2">
+            <img src="images/ContactUsPhone.png" alt="Image 2">
         </a>
         <a href="INSERT ANY LINK HERE" target="_blank">
-            <img src="images/Dollar.jpg" alt="Image 3">
+            <img src="images/Dollar.png" alt="Image 3">
         </a>
     </div>
 
