@@ -53,13 +53,13 @@
             <div class="caption">Microsoft 365</div>
         </div>
         <div class="image-item">
-            <a href="INSERT ANY LINK HERE" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.fongoworks.com/dashboard/manage/members" target="_blank" rel="noopener noreferrer">
                 <img src="images/ContactUsPhone.png" alt="Image 2">
             </a>
             <div class="caption">VoIP Services</div>
         </div>
         <div class="image-item">
-            <a href="INSERT ANY LINK HERE" target="_blank" rel="noopener noreferrer">
+            <a href="https://dashboard.stripe.com/test/payment-links/plink_1PntnBJsdze1sFp5MaxL0OJS" target="_blank" rel="noopener noreferrer">
                 <img src="images/Dollar.png" alt="Image 3">
             </a>
             <div class="caption">Payments</div>
